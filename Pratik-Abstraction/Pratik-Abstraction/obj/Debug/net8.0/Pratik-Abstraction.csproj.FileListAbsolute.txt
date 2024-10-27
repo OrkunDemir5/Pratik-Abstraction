@@ -1,0 +1,14 @@
+C:\Users\Orkun\source\repos\Pratik-Abstraction\Pratik-Abstraction\bin\Debug\net8.0\Pratik-Abstraction.exe
+C:\Users\Orkun\source\repos\Pratik-Abstraction\Pratik-Abstraction\bin\Debug\net8.0\Pratik-Abstraction.deps.json
+C:\Users\Orkun\source\repos\Pratik-Abstraction\Pratik-Abstraction\bin\Debug\net8.0\Pratik-Abstraction.runtimeconfig.json
+C:\Users\Orkun\source\repos\Pratik-Abstraction\Pratik-Abstraction\bin\Debug\net8.0\Pratik-Abstraction.dll
+C:\Users\Orkun\source\repos\Pratik-Abstraction\Pratik-Abstraction\bin\Debug\net8.0\Pratik-Abstraction.pdb
+C:\Users\Orkun\source\repos\Pratik-Abstraction\Pratik-Abstraction\obj\Debug\net8.0\Pratik-Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orkun\source\repos\Pratik-Abstraction\Pratik-Abstraction\obj\Debug\net8.0\Pratik-Abstraction.AssemblyInfoInputs.cache
+C:\Users\Orkun\source\repos\Pratik-Abstraction\Pratik-Abstraction\obj\Debug\net8.0\Pratik-Abstraction.AssemblyInfo.cs
+C:\Users\Orkun\source\repos\Pratik-Abstraction\Pratik-Abstraction\obj\Debug\net8.0\Pratik-Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Orkun\source\repos\Pratik-Abstraction\Pratik-Abstraction\obj\Debug\net8.0\Pratik-Abstraction.dll
+C:\Users\Orkun\source\repos\Pratik-Abstraction\Pratik-Abstraction\obj\Debug\net8.0\refint\Pratik-Abstraction.dll
+C:\Users\Orkun\source\repos\Pratik-Abstraction\Pratik-Abstraction\obj\Debug\net8.0\Pratik-Abstraction.pdb
+C:\Users\Orkun\source\repos\Pratik-Abstraction\Pratik-Abstraction\obj\Debug\net8.0\Pratik-Abstraction.genruntimeconfig.cache
+C:\Users\Orkun\source\repos\Pratik-Abstraction\Pratik-Abstraction\obj\Debug\net8.0\ref\Pratik-Abstraction.dll
